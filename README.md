@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Amazon Project
+## Amazon Project Structure
 
 Default Structure for A Basic Project
 
